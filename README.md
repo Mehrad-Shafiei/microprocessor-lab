@@ -2,4 +2,4 @@
 Solutions for Microprocessor Lab Assignments. 
 
 Author:
-Mehrad Shafeei
+Mehrad Shafiei
