@@ -1,5 +1,5 @@
-# Microprocessor-lab
+# Microprocessor lab
 Solutions for Microprocessor Lab Assignments. 
 
-Author:
+#Author:
 Mehrad Shafiei
