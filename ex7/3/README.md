@@ -1,2 +1,2 @@
 # Part 3
-## HELP : Set and Press Ok
+## HELP : Set Angle and Press Ok
