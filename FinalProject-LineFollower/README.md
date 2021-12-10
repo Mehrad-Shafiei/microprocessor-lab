@@ -1,3 +1,3 @@
 # Line Follower
  Line Follower with 5 Sensor <br />
-![Line Follower](https://pasteboard.co/nbWzFdIeB6KQ.jpg)
+![Line Follower](https://imgur.com/a/Z6QgId6)
